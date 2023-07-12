@@ -1,4 +1,29 @@
 
+#navcon{
+    background-color: black;
+    color: white;
+
+}
+#navcon li{
+    color:white
+}
+
+#jumbotron{
+    background-color: lightgrey;
+    width:84rem;
+}
+
+#card{
+    margin:10px;
+
+    
+}
+card img{
+    max-width: fit-content;
+}
+
+
+
 /* 
 
     You can write your own styles here...

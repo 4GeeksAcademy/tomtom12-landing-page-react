@@ -1,6 +1,7 @@
 import React from "react";
 
 //include images into your bundle
+
 import Card from "./card";
 import Navbar from "./navbar";
 import Jumbotron from "./jumbotron";
