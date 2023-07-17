@@ -6,9 +6,11 @@ import Card from "./card";
 import Navbar from "./navbar";
 import Jumbotron from "./jumbotron";
 import Footer from "./footer";
+import { render } from "react-dom";
 
 //create your first component
 const Home = () => {
+
 	return (
 		
 		<div >
@@ -21,6 +23,8 @@ const Home = () => {
 			
 		</div>
 	);
+	
+	
 };
 
 export default Home;
